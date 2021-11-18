@@ -1,6 +1,10 @@
 # Arithmetic-Formatter
 Arithmetic Formatter project completed as part of Scientific Computing with Python Certificate completed with FreeCodeCamp
+
+
 ----THE FOLLOWING DESCRIPTION OF PROJECT IS FROM FREECODECAMP---
+For repl.it link with tests: https://replit.com/@YiSun2/boilerplate-arithmetic-formatter-Yi-Sun-Submission-1
+
 
 Assignment
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
